@@ -1,5 +1,7 @@
 # Skeleton-Based-Cage-Generation
-Source code of the paper "Skeleton Based Cage Generation Guided by Harmonic Fields"
+Source code of the paper
+
+Skeleton Based Cage Generation Guided by Harmonic Fields
 
 S. Casti, M. Livesu, N. Mellado, N. Abu Rumman, R. Scateni, L. Barthe, E. Puppo
 
